@@ -1,1 +1,1 @@
-#
+# 1.in Tailwind CSS v4, you do not need to explicitly add the transform class when using utilities like translate-y-1. The translate-*, rotate-*, and scale-* utilities work independently and apply the necessary CSS properties automatically.
